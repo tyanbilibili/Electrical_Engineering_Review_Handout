@@ -35,7 +35,8 @@
 - reasonix studio
 - codex
 
-
+## 谴责
+- [阿巴阿巴713](https://space.bilibili.com/1781884621)
 
 
 
