@@ -26,6 +26,9 @@
 ## readme表格里的课程没有在releases里找到？
 课还没上完，讲义只编写了一半。**等临近期末的时候再来这个仓库逛逛吧！**
 
+## 表格里有的专业课似乎没有呢？
+要记的东西太少了，当时没高兴做。
+
 ## 鸣谢
 - [Tyan-an](https://github.com/tyanbilibili)
 - DeepSeek-v4.1-flash
