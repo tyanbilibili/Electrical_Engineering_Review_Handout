@@ -31,7 +31,7 @@
 
 ## 鸣谢
 - [Tyan-an](https://github.com/tyanbilibili)
-- DeepSeek-v4.1-flash
+- DeepSeek-（v4-preview～v4.1-flash）
 - reasonix studio
 - codex
 
